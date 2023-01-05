@@ -1,0 +1,15 @@
+{
+  "name": "barriga-rest-api-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js Barriga-Rest-API-main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "^6.0.7"
+  }
+}
